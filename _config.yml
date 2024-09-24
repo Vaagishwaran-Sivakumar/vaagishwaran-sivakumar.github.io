@@ -22,21 +22,21 @@ repository               : "Vaagishwaran_Sivakumar/vaagishwaran_sivakumar.github
 author:
   # Biographic information
   avatar           : "profile_photo.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Hello there!"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Vaagishwaran Sivakumar"
+  pronouns         : "He/Him/His" # example: "she/her"  
+  bio              : "Hello there! I am an undergraduate in my senior year, majoring in Mathematics and Computer Science. "
+  location         : "Minneapolis, MN"
+  employer         : "University of Minnesota - Twin Cities"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "helium898@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
